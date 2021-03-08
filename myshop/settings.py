@@ -25,7 +25,7 @@ SECRET_KEY = '1ticp=@_l(_l7y=-q-9ab33ngqjwqov32=9_nncu%#j1fwgj3j'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://mrugakshi-shop-application.herokuapp.com/', '127.0.0.1', 'localhost']
+ALLOWED_HOSTS = ['mrugakshi-shop-application.herokuapp.com', '127.0.0.1', 'localhost']
 
 
 # Application definition
